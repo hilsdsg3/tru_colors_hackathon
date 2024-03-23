@@ -1,0 +1,26 @@
+Water Quality Report for the City of Washington DC
+
+=== City ===
+
+Washington DC
+
+=== Year ===
+
+2022
+
+=== Chlorine ===
+
+4 ppm
+
+=== Calcium ===
+
+36 ppm
+
+=== Magnesium ===
+
+1 ppm
+
+=== Iron ===
+
+0.00000040 ppm to ND
+

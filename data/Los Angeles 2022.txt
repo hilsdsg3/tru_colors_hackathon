@@ -1,0 +1,26 @@
+Water Quality Report for the City of Los Angeles
+
+=== City ===
+
+Los Angeles
+
+=== Year ===
+
+2022
+
+=== Chlorine ===
+
+2.3 ppm
+
+=== Calcium ===
+
+86 ppm
+
+=== Magnesium ===
+
+26 ppm
+
+=== Iron ===
+
+Not Available
+

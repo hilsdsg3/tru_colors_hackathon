@@ -1,0 +1,25 @@
+Water Quality Report for the City of Cambridge
+
+=== City ===
+
+Cambridge
+
+=== Year ===
+
+2022
+
+=== Chlorine ===
+
+3.1 ppm
+
+=== Calcium ===
+
+21 ppm
+
+=== Magnesium ===
+
+4.5 ppm
+
+=== Iron ===
+
+Not Available

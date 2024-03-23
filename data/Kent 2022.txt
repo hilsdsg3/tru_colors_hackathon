@@ -1,0 +1,26 @@
+Water Quality Report for the City of Kent
+
+=== City ===
+
+Kent
+
+=== Year ===
+
+2022
+
+=== Chlorine ===
+
+1.86 ppm
+
+=== Calcium ===
+
+22 ppm
+
+=== Magnesium ===
+
+14 ppm
+
+=== Iron ===
+
+0.020 ppm
+

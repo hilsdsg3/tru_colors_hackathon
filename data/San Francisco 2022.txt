@@ -1,0 +1,26 @@
+Water Quality Report for the City of San Francisco
+
+=== City ===
+
+San Francisco
+
+=== Year ===
+
+2022
+
+=== Chlorine ===
+
+3.5 ppm
+
+=== Calcium ===
+
+15 ppm
+
+=== Magnesium ===
+
+4.2 ppm
+
+=== Iron ===
+
+0.00000024 ppm
+

@@ -1,0 +1,41 @@
+
+=== Chlorine ===
+
+Containment Levels
+
+< 1 ppm = 0 filters
+
+1 - 3 ppm = 1 filters
+
+> 3 ppm = 2 filters
+ 
+=== Calcium ===
+
+Containment Levels
+
+< 20 ppm = 0 filters
+
+20 - 70 ppm = 1 filters
+
+> 70 ppm = 2 filters
+
+=== Magnesium ===
+
+Containment Levels
+
+< 5 ppm = 0 filters
+
+5 - 20 ppm = 1 filters
+
+> 20 ppm = 2 filters
+
+=== Iron ===
+
+Containment Levels
+
+< 0.001 ppm = 0 filters
+
+0.001 - 0.1 ppm = 1 filters
+
+> 0.1 ppm = 2 filters
+

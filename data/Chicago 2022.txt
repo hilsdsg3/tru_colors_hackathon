@@ -1,0 +1,26 @@
+Water Quality Report for the City of Chicago
+
+=== City ===
+
+Chicago
+
+=== Year ===
+
+2022
+
+=== Chlorine ===
+
+1.0 ppm
+
+=== Calcium ===
+
+Not Available
+
+=== Magnesium ===
+
+Not Available
+
+=== Iron ===
+
+Not Available
+
